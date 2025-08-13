@@ -52,4 +52,4 @@ Designed for academic and research purposes.
 If you use this simulation in your research, please cite:
 
 
-Latif U. Khan, Sergio Lordano and Bernd Meyer BM08-XAFS/XRF Beamline, SESAME Synchrotron Light Source, OASYS Simulation Workflow, 2025 https://zenodo.org/records/16826550
+Latif U. Khan, Sergio Lordano and Bernd Meyer BM08-XAFS/XRF Beamline, SESAME Synchrotron Light Source, OASYS Simulation Workflow, 2025 https://zenodo.org/records/16826550 (DOI: https://doi.org/10.5281/zenodo.16826550)
