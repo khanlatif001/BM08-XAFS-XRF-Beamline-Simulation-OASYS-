@@ -1,0 +1,12 @@
+ -----------------------------------------------
+ Machine Energy:   2.5000     GeV. GAMMA:   4892.5        Radius:   5.7298     m
+ Critical Energy=   6048.5     eV, Critical Wavelength=   2.0498     Angs.
+ Total Radiated Power=   603.35     kW
+ Integrated flux at    7997.0000000000000       eV
+ within limiting vertical angles (rads): 
+  -1.0000000000000000        1.0000000000000000     
+ Units:  Photons/sec/mrad/ma/eV
+ parallel      :    0.27724E+11
+ perpendicular :    0.00000E+00
+ total         :    0.27724E+11
+ Approximated Gaussian width:  0.28308E-03 rads
